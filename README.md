@@ -1,4 +1,3 @@
-![eth5 6](https://github.com/Gayathriraj18/Metasploit-for-reconnaissance/assets/94154854/31c0323d-c727-4fcd-96ab-526dd12ea825)# Metasploit-for-reconnaissance
 # Metasploit
 Metasploit for reconnaissance in pentesting
 
